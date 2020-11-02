@@ -163,6 +163,3 @@ Basic communication.
 
 ## 98-381 Introduction to Porgramming using Python
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f9eff0c9-7e9f-4e6e-b27e-cbc770a9572d/azure-fundamentals-600x600.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f9eff0c9-7e9f-4e6e-b27e-cbc770a9572d/azure-fundamentals-600x600.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec8ffc39-7238-4aad-ab17-d5a889aa1912/MTA-Introduction2Bto2BProgramming2BUsing2BPython.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec8ffc39-7238-4aad-ab17-d5a889aa1912/MTA-Introduction2Bto2BProgramming2BUsing2BPython.png)
