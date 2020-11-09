@@ -4,7 +4,7 @@
   
     
     <entry>
-      <title>從0自學PostgreSQL- 01-01 Create Table in PostgreSQL</title>
+      <title>測試用第一篇文章</title>
       <link href="2020/11/09/hello-world/"/>
       <url>2020/11/09/hello-world/</url>
       
@@ -13,14 +13,14 @@
       
       <categories>
           
-          <category> Learning </category>
+          <category> 測試用 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> PostgreSQL, Database </tag>
+            <tag> 測試用 </tag>
             
         </tags>
       
@@ -45,7 +45,7 @@
       
         <tags>
             
-            <tag> PostgreSQL;Database </tag>
+            <tag> PostgreSQL </tag>
             
         </tags>
       
