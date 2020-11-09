@@ -6,7 +6,7 @@
   <link href="https://vincentxerxes.github.io/atom.xml" rel="self"/>
   
   <link href="https://vincentxerxes.github.io/"/>
-  <updated>2020-11-06T07:04:54.335Z</updated>
+  <updated>2020-11-09T08:23:58.914Z</updated>
   <id>https://vincentxerxes.github.io/</id>
   
   <author>
@@ -18,22 +18,26 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://vincentxerxes.github.io/2020/11/06/hello-world/"/>
-    <id>https://vincentxerxes.github.io/2020/11/06/hello-world/</id>
-    <published>2020-11-06T07:04:54.335Z</published>
-    <updated>2020-11-06T07:04:54.335Z</updated>
+    <link href="https://vincentxerxes.github.io/2020/11/09/hello-world/"/>
+    <id>https://vincentxerxes.github.io/2020/11/09/hello-world/</id>
+    <published>2020-11-08T16:00:00.000Z</published>
+    <updated>2020-11-09T08:23:58.914Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
         
       
     
     
     
+    <category term="測試用" scheme="https://vincentxerxes.github.io/categories/%E6%B8%AC%E8%A9%A6%E7%94%A8/"/>
+    
+    
+    <category term="測試用" scheme="https://vincentxerxes.github.io/tags/%E6%B8%AC%E8%A9%A6%E7%94%A8/"/>
     
   </entry>
   
