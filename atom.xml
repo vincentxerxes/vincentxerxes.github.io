@@ -6,7 +6,7 @@
   <link href="https://vincentxerxes.github.io/atom.xml" rel="self"/>
   
   <link href="https://vincentxerxes.github.io/"/>
-  <updated>2020-11-09T09:38:51.758Z</updated>
+  <updated>2020-11-10T05:51:24.384Z</updated>
   <id>https://vincentxerxes.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Markdown語法即時編輯</title>
+    <link href="https://vincentxerxes.github.io/2020/11/10/markdown-yu-fa-ji-shi-bian-ji/"/>
+    <id>https://vincentxerxes.github.io/2020/11/10/markdown-yu-fa-ji-shi-bian-ji/</id>
+    <published>2020-11-09T16:00:00.000Z</published>
+    <updated>2020-11-10T05:51:24.384Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Coding" scheme="https://vincentxerxes.github.io/categories/Coding/"/>
+    
+    
+    <category term="Markdown" scheme="https://vincentxerxes.github.io/tags/Markdown/"/>
+    
+  </entry>
   
   <entry>
     <title>測試用第一篇文章</title>
