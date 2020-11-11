@@ -6,7 +6,7 @@
   <link href="https://vincentxerxes.github.io/atom.xml" rel="self"/>
   
   <link href="https://vincentxerxes.github.io/"/>
-  <updated>2020-11-10T05:52:51.462Z</updated>
+  <updated>2020-11-11T07:15:06.583Z</updated>
   <id>https://vincentxerxes.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Google Analytics應用</title>
+    <link href="https://vincentxerxes.github.io/2020/11/11/google-analytics-ying-yong/"/>
+    <id>https://vincentxerxes.github.io/2020/11/11/google-analytics-ying-yong/</id>
+    <published>2020-11-10T16:00:00.000Z</published>
+    <updated>2020-11-11T07:15:06.583Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Blogger" scheme="https://vincentxerxes.github.io/categories/Blogger/"/>
+    
+    
+    <category term="Others" scheme="https://vincentxerxes.github.io/tags/Others/"/>
+    
+  </entry>
   
   <entry>
     <title>Markdown語法即時編輯</title>
